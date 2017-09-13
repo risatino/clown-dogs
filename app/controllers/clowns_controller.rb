@@ -1,2 +1,3 @@
 class ClownsController < ApplicationController
+
 end
